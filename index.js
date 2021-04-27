@@ -12,7 +12,7 @@ async function main() {
     secure: true, // use TLS
     auth: {
       user: "ameritec110919@gmail.com",
-      pass: "lerxzjqvfkgxqeys"
+      pass: "" // your app password
     }
   });
 
